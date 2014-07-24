@@ -1,7 +1,4 @@
----
-title: "Codebook for Tidy Dataset"
-output: html_document
----
+## Codebook for Tidy Dataset
 
 This document provides a description of the tidy dataset produced in the frame of the Getting and Cleaning Data course project. The  contents of the document is widely inspired by the original data source.
 
