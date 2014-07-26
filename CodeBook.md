@@ -54,8 +54,10 @@ Features describing activities and subjects are:
 - Subject: the person on which the measurement is taken; takes integer values from 1 to 30 
 
 
-A complete list of feature is given bellow.
+A complete list of feature is given bellow. 
 
+
+## Complete list of features 
 - Subject                     
 - Activity                     
 - tBodyAcc-mean.Mean-X          
