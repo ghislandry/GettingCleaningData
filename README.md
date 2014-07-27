@@ -11,7 +11,7 @@ At the end of the experiment, feature vectors obtained form individual windows a
 - Its activity label
 - An identifier of the subject who carried out the experiment
 
-To summarise, following are the transformation we performed on the original data set involves:
+To summarise, following are the transformation we performed on the original data:
 
  - Merging of the training and the test sets to create one data set.
  - Extracting only the measurements on the mean and standard deviation for each measurement. 
