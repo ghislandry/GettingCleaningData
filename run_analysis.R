@@ -18,7 +18,9 @@ if(!file.exists("Dataset.zip")){
         dateDownload <- data()
         
         #unzip the zipped file and rename it to UciHarDataset
-        system("unzip Dataset.zip; mv UCI\\ HAR\\ Dataset UciHarDataset")
+        unzip("Dataset.zip")
+        file.rename("UCI HAR Dataset", "UciHarDataset")
+        #system("unzip Dataset.zip; mv UCI\\ HAR\\ Dataset UciHarDataset")
         
 }
 
